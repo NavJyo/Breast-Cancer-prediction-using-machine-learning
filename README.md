@@ -16,7 +16,8 @@ Link: https://breast26.herokuapp.com
 
 Overview
 
-This is a simple Flask web app which predicts whether a patient is having breast cancer or not.
+This is a simple Flask web app which predicts whether a patient is having breast cancer or not. 
+![breast](https://user-images.githubusercontent.com/36689965/117625708-eb3ec380-b193-11eb-9683-f8263fd97017.JPG)
 
 Motivation
 
