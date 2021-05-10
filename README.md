@@ -44,7 +44,7 @@ Directory Tree
  
 ├── template
 
- │   ├── kidney.html
+ │   ├── home.html
  
 ├── Procfile
 
@@ -52,7 +52,7 @@ Directory Tree
 
 ├── app.py 
 
-├── kidney.pkl
+├── breastcancer.pkl
 
 ├── requirements.txt
  
